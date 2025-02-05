@@ -1,11 +1,4 @@
 # Challenge_5_Matplotlib
-Used the following git hub repositories for checking errors, debugging, and figuring out the isin filtering function: redeat17 and jamiedataviz.
-
-Used pandas-dev to look up information about the pandas.groupby function.
-
-Worked in tandem with two classmates: Kelly Carter, Rebecca Willis, and offered assistance to other classmates in the Slack channel around the isin function.
-
-What good is data without a good plot to tell the story?
 
 In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
 
